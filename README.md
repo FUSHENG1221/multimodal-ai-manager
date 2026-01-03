@@ -222,6 +222,7 @@ multimodal-ai-manager/
 │   └── images/           # 图像文件
 ├── vector_db/            # 向量数据库文件
 ├── test_images/          # 测试图片样本
+├── 多模态AI文献图片管理-演示视频.mp4          # 演示视频
 └── test_papers/          # 测试论文样本
 ```
 
